@@ -9,6 +9,7 @@
 - CSS
 - Javascript
 - NodeJS
+- Python
 - Ruby
 - Ruby On Rails
 - Powershell
