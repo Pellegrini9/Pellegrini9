@@ -8,7 +8,7 @@
 - HTML
 - CSS
 - Javascript
-- NodeJS
+- ReactJS
 - Python
 - Ruby
 - Ruby On Rails
