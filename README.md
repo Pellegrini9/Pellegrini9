@@ -5,13 +5,9 @@
 - 📫 Contate-me no E-mail: pellegrini_matheus@protonmail.com
 - 😄 Pronouns: Ele/Dele
 - Possuo experiencia em:
-- HTML
-- CSS
-- Javascript
-- ReactJS
+- RUST
 - Python
 - Ruby
-- Ruby On Rails
 - Powershell
 - Shellscript
 -->
