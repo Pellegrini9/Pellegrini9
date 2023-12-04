@@ -11,6 +11,7 @@
 - React
 - Angular
 - Bootstrap
+- Typescript
 - TailWind CSS
 -->
 
