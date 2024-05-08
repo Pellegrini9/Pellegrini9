@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Atualmente trabalho como Assistente de TI
-- 🌱 Estou estudando Rust, Pós Graduação em Segurança da informação.
+- 🌱 Estou estudando Rust, Estudando Tecnologia em ciencia de dados
 - 📫 Contate-me no E-mail: pellegrini_matheus@protonmail.com
 - 😄 Pronouns: Ele/Dele
 - Possuo experiencia em:
@@ -13,7 +13,7 @@
 - Teste de intrusão
 - Pentest
 - Nmap
-- 
+- Wireshark
 -->
 
 
